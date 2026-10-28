@@ -1,0 +1,37 @@
+[
+  {
+    "proposal": "A",
+    "rank": 1,
+    "status": "ranked",
+    "score": null,
+    "reason": "Strong commercial experience, competitive price, 12-week timeline, and a well-defined team."
+  },
+  {
+    "proposal": "E",
+    "rank": 2,
+    "status": "ranked",
+    "score": null,
+    "reason": "Meets mandatory requirements and offers a strong team, 12-year workmanship warranty, and 24-month monitoring."
+  },
+  {
+    "proposal": "C",
+    "rank": 3,
+    "status": "ranked",
+    "score": null,
+    "reason": "Meets mandatory requirements and offers good experience and warranties, but has a higher price and 14-week timeline."
+  },
+  {
+    "proposal": "D",
+    "rank": 4,
+    "status": "flagged",
+    "score": null,
+    "reason": "The completion timeline is not specified and needs human review before final evaluation."
+  },
+  {
+    "proposal": "B",
+    "rank": null,
+    "status": "flagged",
+    "score": null,
+    "reason": "The bidder's own Ontario electrical contractor licence is not confirmed because the proposal refers to a subcontractor."
+  }
+]
